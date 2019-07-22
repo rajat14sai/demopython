@@ -1,0 +1,4 @@
+string="my name is rajat sharma"
+for i in string:
+    st=string.count(i)
+    print(i,st,end="")
